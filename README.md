@@ -21,7 +21,7 @@
 - [ ] [#2](https://funretro.io/publicboard/XkkIIcPYT2eHI9bd8am5zl5mF1P2/-LPClKwjvzoi-BapxDGN)
 
 ## Matriz de pareamento
-- [ ] [https://docs.google.com/spreadsheets/d/e/2PACX-1vTnrA5Ch47kJaVk92JiryB5_OMtwtnpt9d621cZz51-8bis3AjECHXdmhR7bKcRhR3TEU7ICQ3F6Avi/pubhtml)
+- [ ] [Pair Programming Matrix](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnrA5Ch47kJaVk92JiryB5_OMtwtnpt9d621cZz51-8bis3AjECHXdmhR7bKcRhR3TEU7ICQ3F6Avi/pubhtml)
 
 ## Slides dos encontros
 - [ ] [#1](https://drive.google.com/open?id=1-xx-dcFpdnS5siDlwHszzLATCMceOOnMLMawu3Ebvmg)
