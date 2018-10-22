@@ -1,12 +1,13 @@
 # React ladies turma 01
-- [Leituras obrigatórias](#leituras-obrigatorias)
-- [Indicações de cursos](#indicacoes-de-cursos)
-- [Feedback Culture](#feedback-culture)
-- [Matriz de pareamento](#matriz-de-pareamento)
-- [Slides dos encontros](#slides-dos-encontros)
-- [Atividades extras](#atividades-extras)
-- [Projects](#projects)
-- [Book Review](#book-review)
+  - [Leituras obrigatórias](#leituras-obrigatórias)
+  - [Indicações de cursos](#indicações-de-cursos)
+  - [Feedback Culture](#feedback-culture)
+  - [Matriz de pareamento](#matriz-de-pareamento)
+  - [Slides dos encontros](#slides-dos-encontros)
+  - [Atividades extras](#atividades-extras)
+  - [Projects](#projects)
+  - [Book Review](#book-review)
+  - [sumário dos encontros](./encontros.md)
 
 ## Leituras obrigatórias
 - [ ] [The road to learn react - Portuguese Edition](https://github.com/the-road-to-learn-react/the-road-to-learn-react-portuguese/tree/master/manuscript) :star:
