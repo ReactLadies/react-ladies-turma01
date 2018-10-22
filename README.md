@@ -36,3 +36,8 @@
 
 ## Book Review
 - [ ] [#1 Introdução a React - Simone & Geysa](https://github.com/the-road-to-learn-react/the-road-to-learn-react-portuguese/blob/master/manuscript/chapter1.md)
+- [ ] [#2 React Básico](https://github.com/the-road-to-learn-react/the-road-to-learn-react-portuguese/blob/master/manuscript/chapter1.md))
+- [ ] [#3 Familiarizando-se com uma API](https://github.com/the-road-to-learn-react/the-road-to-learn-react-portuguese/blob/master/manuscript/chapter3.md)
+- [ ] [#4 Organização do Código e Testes](https://github.com/the-road-to-learn-react/the-road-to-learn-react-portuguese/blob/master/manuscript/chapter4.md)
+- [ ] [#5 Conceitos Avançados de Componentes React](https://github.com/the-road-to-learn-react/the-road-to-learn-react-portuguese/blob/master/manuscript/chapter5.md)
+- [ ] [#6 Gerenciamento de Estado em React (e além)](https://github.com/the-road-to-learn-react/the-road-to-learn-react-portuguese/blob/master/manuscript/chapter6.md)
