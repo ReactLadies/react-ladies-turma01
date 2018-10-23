@@ -18,4 +18,10 @@
     - Hora de praticar!
     - JSX x HTML
     - Class Components x Functions Components
-    - 
+ 
+ # 3 
+    - Book review - 1
+    - Code review - homework - make static twitter
+    - Code hands - reaact counter by Kellen
+    - Basic Git / Github
+    - Basic CSS
