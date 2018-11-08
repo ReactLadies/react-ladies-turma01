@@ -32,7 +32,7 @@
 - [ ] []()
 
 ## Projects
-- [ ] [Twitter clone](#)
+- [ ] [Twitter clone](https://github.com/ReactLadies/twitter-clone)
 - [ ] [React Ladies site](#)
 
 ## Book Review
