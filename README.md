@@ -32,8 +32,8 @@
 - [ ] []()
 
 ## Projects
-- [ ] [Twitter clone](https://github.com/ReactLadies/twitter-clone)
-- [ ] [React Counter](/projetos/react-count)
+- [ ] [Twitter clone](/projetos/twitter-clone.md)
+- [ ] [React Counter](/projetos/react-count.md)
 - [ ] [React Ladies site](#)
 
 ## Book Review
