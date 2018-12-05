@@ -29,7 +29,7 @@
 - [ ] [#2](https://drive.google.com/open?id=1rajqGvm7zMlAjU8tcQhhE2JWdSNoz-k0ndmEATnBrgM)
 
 ## Atividades extras
-- [ ] []()
+- [ ] [Exercism.io](/atividades-extras/exercism.md)
 
 ## Projects
 - [ ] [Twitter clone](/projetos/twitter-clone.md)
