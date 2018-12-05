@@ -4,7 +4,6 @@
 - 1 [Por onde começar?](#por-onde-começar)
 - 2 [Faça parte do nosso time](#faça-parte-do-nosso-time)
 - 3 [Como deixar suas soluções disponíveis no grupo do React Ladies na plataforma do exercism.io?](#como-deixar-suas-soluções-disponíveis-no-grupo-do-react-ladies-na-plataforma-do-exercism.io)
-- 4 []()
 
 
 ## Por onde começar?
@@ -57,7 +56,7 @@
 
     ![Imagem para mudar entre os modos pessoal e time na plataforma do exercism.io](../imgs/playNew.png)
 
-- 4 Vote para o modo  `teams edition`.
+- 4 Volte para o modo  `teams edition`.
 
     ![Imagem para mudar entre os modos pessoal e time na plataforma do exercism.io](../imgs/mentoredMode.png)
 
